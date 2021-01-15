@@ -22,4 +22,10 @@ The model prediction in this project were attempted to detect fraudelent credit 
   - V1, V2....V28 (float)
   - Amount (numerical)
   - Class (boolean)
-  
+
+## Exploratory Data Analysis
+
+<p float="left">
+  <img src="https://github.com/PannaD8ta/Creditcard_Fraud_Classifer/blob/main/AUC.png" alt="AUC" width="400" height="350"/>
+  <img src="https://github.com/PannaD8ta/Creditcard_Fraud_Classifer/blob/main/Confusion_Matrix.png" alt="Confusion Matrix" width="400" height="350" />
+</p>
