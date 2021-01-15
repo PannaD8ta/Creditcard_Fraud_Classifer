@@ -1,5 +1,5 @@
 # Credit Card Fraud Classifier
-The model prediction in this project were attempted to detect fraudelent credit card transactions, with a highly imbalanced dataset made by credit cards in September 2013 by European cardholders. 
+The model prediction in this project was attempted to detect fraudulent credit card transactions, with a highly imbalanced dataset made by credit cards in September 2013 by European cardholders. 
 
 - The top models selected were:
   - Extra Trees Classifier with an AUC score of 0.9876
