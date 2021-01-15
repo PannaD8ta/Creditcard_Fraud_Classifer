@@ -27,6 +27,6 @@ The model prediction in this project was attempted to detect fraudulent credit c
 
 <p float="left">
   <img src="https://github.com/PannaD8ta/Creditcard_Fraud_Classifer/blob/main/AUC.png" alt="AUC" width="400" height="350"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/PannaD8ta/Creditcard_Fraud_Classifer/blob/main/Confusion_Matrix.png" alt="Confusion Matrix" width="400" height="350" />
 </p>
